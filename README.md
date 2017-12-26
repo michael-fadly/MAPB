@@ -4,8 +4,6 @@
 
 ## ToDo
 
-1. Contact Page
+1. Create your own Bracelet page using p5js
 
-2. Create your own Bracelet page using p5js
-
-3. Store
+2. Store
